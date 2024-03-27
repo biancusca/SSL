@@ -40,10 +40,11 @@ proceso.
    - Seleccione, instale, configure, y pruebe un compilador C11 ó C18. Los
 más osados pueden buscar un compilador que soporte C23 ó C2x.
    - Registre los resultados anteriores los resultados anteriores de la siguiente manera:
+     
         i. Indique en el readme.md el compilador seleccionado, su versión, y la
 versión de C que compila.
 
-         * Es importante separar dos conceptos: la
+         _Es importante separar dos conceptos: la
 versión del compilador de la versión del
 lenguaje de programación. Una versión del
 compilador compila una o más versiones del
@@ -55,7 +56,7 @@ Para conocer las versiones del lenguaje de
 programación que esa versión del compilador
 compila, se puede consultar la documentación
 de esa versión del compilador ó experimentar
-con la opción -std. *
+con la opción -std._
 
       ii. Pruebe el compilador con un programa hello.c que envíe a stdout
 la línea Hello, World! o similar.
