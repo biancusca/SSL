@@ -2,7 +2,7 @@
 - **Legajo**: 203.487-6
 - **Apellido**: Castoldi
 - **Nombre**: Bianca
-# Trabajo práctico nro 0 - Hello 
+# Trabajo práctico nro 0 - Hello Word!
 ## **Enunciado**:
 ### 3.1. Objetivos
 - Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
