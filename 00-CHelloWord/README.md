@@ -41,7 +41,7 @@ proceso.
 más osados pueden buscar un compilador que soporte C23 ó C2x.
    - Registre los resultados anteriores los resultados anteriores de la siguiente manera:
      
-        i. Indique en el readme.md el compilador seleccionado, su versión, y la
+         i. Indique en el readme.md el compilador seleccionado, su versión, y la
 versión de C que compila.
 
 *Es importante separar dos conceptos: la
