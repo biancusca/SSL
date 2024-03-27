@@ -43,7 +43,7 @@ más osados pueden buscar un compilador que soporte C23 ó C2x.
         i. Indique en el readme.md el compilador seleccionado, su versión, y la
 versión de C que compila.
 
-         *Es importante separar dos conceptos: la
+         * Es importante separar dos conceptos: la
 versión del compilador de la versión del
 lenguaje de programación. Una versión del
 compilador compila una o más versiones del
@@ -55,7 +55,7 @@ Para conocer las versiones del lenguaje de
 programación que esa versión del compilador
 compila, se puede consultar la documentación
 de esa versión del compilador ó experimentar
-con la opción -std.*
+con la opción -std. *
 
       ii. Pruebe el compilador con un programa hello.c que envíe a stdout
 la línea Hello, World! o similar.
@@ -90,4 +90,10 @@ Usuario // Usuario GitHub
  |-- hello.c // Archivo fuente del programa
  `-- output.txt // Archivo con la salida del programa
 
-• Hipótesis de trabajo que surgen luego de leer el enunciado
+ ### 3.7. Referencia
+• [CompiladoresInstalacion]
+• [KR1988] § 1.1 Comenzado
+• [CharacterInputOutputRedirection]
+• [Git101]
+
+## Hipótesis de trabajo que surgen luego de leer el enunciado
