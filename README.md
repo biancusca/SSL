@@ -1,4 +1,4 @@
-#**Información del Alumno**
+# **Información del Alumno**
 
 - **Sintaxis y Semántica de los Lenguajes**
 - **Curso:** K2052
