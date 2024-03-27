@@ -44,7 +44,7 @@ más osados pueden buscar un compilador que soporte C23 ó C2x.
      a.Indique en el readme.md el compilador seleccionado, su versión, y la
 versión de C que compila.
 
-*Es importante separar dos conceptos: la versión del compilador de la versión del lenguaje de programación. Una versión del compilador compila una o más versiones del lenguaje de programación. Una forma de conocer la versión del compilador es solicitándolo por línea de comando. Por ejemplo: gcc --version ó clang --version. Para conocer las versiones del lenguaje de programación que esa versión del compilador compila, se puede consultar la documentación de esa versión del compilador ó experimentar con la opción -std.*
+         *Es importante separar dos conceptos: la versión del compilador de la versión del lenguaje de programación. Una versión del compilador compila una o más versiones del lenguaje de                programación. Una forma de conocer la versión del compilador es solicitándolo por línea de comando. Por ejemplo: gcc --version ó clang --version. Para conocer las versiones del                 lenguaje de programación que esa versión del compilador compila, se puede consultar la documentación de esa versión del compilador ó experimentar con la opción -std.*
 
 
      b. Pruebe el compilador con un programa hello.c que envie a stdout la linea Hello, Word! o similar.
