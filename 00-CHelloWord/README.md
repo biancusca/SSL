@@ -41,7 +41,7 @@ proceso.
 más osados pueden buscar un compilador que soporte C23 ó C2x.
    - Registre los resultados anteriores los resultados anteriores de la siguiente manera:
      
-         i. Indique en el readme.md el compilador seleccionado, su versión, y la
+         i.Indique en el readme.md el compilador seleccionado, su versión, y la
 versión de C que compila.
 
 *Es importante separar dos conceptos: la
@@ -58,10 +58,10 @@ compila, se puede consultar la documentación
 de esa versión del compilador ó experimentar
 con la opción -std.*
 
-      ii. Pruebe el compilador con un programa hello.c que envíe a stdout
+      ii.Pruebe el compilador con un programa hello.c que envíe a stdout
 la línea Hello, World! o similar.
-      iii. Ejecute el programa y verifique que la salida es la esperada.
-      iv. Ejecute el programa con la salida redireccionada a un archivo
+      iii.Ejecute el programa y verifique que la salida es la esperada.
+      iv.Ejecute el programa con la salida redireccionada a un archivo
 output.txt; verifique su contenido.
 
 4. **Publicación**
