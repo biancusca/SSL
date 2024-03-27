@@ -98,3 +98,10 @@ Usuario // Usuario GitHub
 • [Git101]
 
 ## Hipótesis de trabajo que surgen luego de leer el enunciado
+
+## Compilador seleccionado
+
+- **Compilador:** GCC (GNU Compiler Collection)
+- **Versión:** 11.4.0
+- **Versión de C compatible:** C18
+
